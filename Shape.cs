@@ -33,6 +33,7 @@ namespace myproject
             int n;
             Console.WriteLine("Nhap so luong hinh : ");
             n=Console.Read();
+            Console.WriteLine("Hello World");
 
         }
     }
